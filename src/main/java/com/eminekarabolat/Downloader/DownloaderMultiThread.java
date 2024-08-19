@@ -11,6 +11,7 @@ public class DownloaderMultiThread {
         executorService.submit(()->{
            //dosyaIndir
            //dosyaYaz
+            //
 
         });
     }
